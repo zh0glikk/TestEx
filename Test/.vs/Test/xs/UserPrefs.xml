@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Controllers/SceneManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/UI/SetterController.cs" Line="68" Column="9" />
+      <File FileName="Assets/Scripts/LevelObjects/LevelObject.cs" Line="12" Column="102" />
+      <File FileName="Assets/Scripts/Controllers/GameController.cs" Line="25" Column="1" />
+      <File FileName="Assets/Scripts/Camera/CameraController.cs" Line="53" Column="72" />
+      <File FileName="Assets/Scripts/Shop/ShopItemDisplay.cs" Line="19" Column="6" />
+      <File FileName="Assets/Scripts/UI/UIController.cs" Line="28" Column="46" />
+      <File FileName="Assets/Scripts/Controllers/SceneManager.cs" Line="14" Column="58" />
+      <File FileName="Assets/Scripts/Audio/AudioManager.cs" Line="30" Column="41" />
+      <File FileName="Assets/Scripts/Audio/Sound.cs" Line="23" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Test" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Audio" expanded="True" />
+                <Node name="Camera" expanded="True" />
+                <Node name="Controllers" expanded="True">
+                  <Node name="SceneManager.cs" selected="True" />
+                </Node>
+                <Node name="LevelObjects" expanded="True" />
+                <Node name="Shop" expanded="True" />
+                <Node name="UI" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="85d67ea2-2a14-4a25-86b0-44f357814c55" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

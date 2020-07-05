@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9521b8d0c6d1d47aabff3820910be6eb, type: 3}
+  m_Name: Bush3
+  m_EditorClassIdentifier: 
+  ItemName: Bush3
+  ItemSprite: {fileID: 21300000, guid: ab9262f7daee04649aa0d999ac2eeed3, type: 3}
+  prefab_3d: {fileID: 1173160376643407184, guid: 2b6f759ba75b94521a371f52177962ce,
+    type: 3}
+  width: 2
